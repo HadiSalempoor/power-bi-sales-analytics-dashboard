@@ -42,51 +42,40 @@ Executive Dashboard
 
 <img width="1484" height="946" alt="image" src="https://github.com/user-attachments/assets/bf0d4f7b-05d1-4e53-ac8a-4095f55833fd" />
 
-Highlights
-
 Revenue KPIs
 Profit KPIs
 Monthly trends
 Executive scorecards
 Geographic Analysis
 
-(large screenshot)
-
-Highlights
+<img width="1736" height="988" alt="image" src="https://github.com/user-attachments/assets/7d43704b-17e5-4661-9c26-4496c3a74cfb" />
 
 Regional performance
 Interactive map
 Country comparison
 Product Performance
 
-(large screenshot)
-
-Highlights
+<img width="1716" height="864" alt="image" src="https://github.com/user-attachments/assets/c6cb6754-59eb-47f2-a26f-30ad4a64fca9" />
 
 Dynamic KPIs
 What-if analysis
 Performance trends
 Customer Analytics
 
-(large screenshot)
-
-Highlights
+<img width="1790" height="1038" alt="image" src="https://github.com/user-attachments/assets/27383f23-22c7-4d91-a471-c2768672c447" />
 
 Customer segmentation
 Revenue analysis
 Top customers
 AI Insights
 
-(Key Influencers screenshot)
-
-Highlights
+<img width="838" height="440" alt="image" src="https://github.com/user-attachments/assets/c1f2f690-dc75-463a-95f3-6a8134b60e00" />
 
 AI-powered analysis
 Driver identification
 Pattern discovery
-🛠 Technical Skills
 
-Instead of a paragraph, make it look like this:
+🛠 Technical Skills
 
 Power BI
 Power Query
@@ -98,13 +87,8 @@ Business Intelligence
 Interactive Reporting
 ETL
 Dashboard Design
+
 📈 Business Value
-
-Instead of
-
-I built a dashboard
-
-write
 
 Executive KPI reporting
 Interactive self-service analytics
@@ -112,32 +96,5 @@ Faster business decisions
 Centralized reporting
 Reusable semantic data model
 Scalable dashboard architecture
-📷 Gallery
 
-At the bottom:
-
-Executive Dashboard
-Customer Detail
-Product Detail
-Map
-Key Influencers
-
-All as large images.
-
-What I noticed from your screenshots
-
-Your report is actually stronger than I thought.
-
-These pages are worth showcasing:
-
-✅ Executive Dashboard
-✅ Map Dashboard
-✅ Product Detail
-✅ Customer Detail (already anonymized)
-✅ Key Influencers
-
-I would skip:
-
-Category Tooltip (internal implementation detail)
-Q&A (unless it's particularly impressive)
-Decomposition Tree (unless you built a strong analytical scenario around it)
+<img width="1828" height="838" alt="image" src="https://github.com/user-attachments/assets/095e2bbe-050d-46af-978e-a480333c1388" />
