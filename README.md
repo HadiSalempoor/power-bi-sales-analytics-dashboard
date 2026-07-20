@@ -1,4 +1,4 @@
-📊 Power BI Sales Analytics Dashboard
+📊 # Power BI Sales Analytics Dashboard
 
 A complete Business Intelligence solution built using Power BI and the AdventureWorks dataset.
 
@@ -80,6 +80,17 @@ Executive Dashboard
 - Driver identification
 - Pattern discovery
 
+## AI Key Influencers
+
+<img width="1828" height="838" alt="image" src="https://github.com/user-attachments/assets/095e2bbe-050d-46af-978e-a480333c1388" />
+
+**Highlights**
+
+- AI-powered root cause analysis
+- Driver identification
+- Pattern discovery
+
+  
 🛠 Technical Skills
 
 - Power BI
@@ -102,4 +113,3 @@ Executive Dashboard
 - Reusable semantic data model
 - Scalable dashboard architecture
 
-<img width="1828" height="838" alt="image" src="https://github.com/user-attachments/assets/095e2bbe-050d-46af-978e-a480333c1388" />
