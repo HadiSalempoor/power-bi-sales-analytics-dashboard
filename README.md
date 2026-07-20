@@ -42,59 +42,64 @@ Executive Dashboard
 
 <img width="1484" height="946" alt="image" src="https://github.com/user-attachments/assets/bf0d4f7b-05d1-4e53-ac8a-4095f55833fd" />
 
-Revenue KPIs
-Profit KPIs
-Monthly trends
-Executive scorecards
-Geographic Analysis
+**Highlights**
+- Revenue KPIs
+- Profit KPIs
+- Monthly trends
+- Executive scorecards
+- Geographic analysis
 
 <img width="1736" height="988" alt="image" src="https://github.com/user-attachments/assets/7d43704b-17e5-4661-9c26-4496c3a74cfb" />
 
-Regional performance
-Interactive map
-Country comparison
-Product Performance
+**Highlights**
+- Regional performance
+- Interactive map
+- Country comparison
+- Product Performance
 
 <img width="1716" height="864" alt="image" src="https://github.com/user-attachments/assets/c6cb6754-59eb-47f2-a26f-30ad4a64fca9" />
 
-Dynamic KPIs
-What-if analysis
-Performance trends
-Customer Analytics
+**Highlights**
+- Dynamic KPIs
+- What-if analysis
+- Performance trends
+- Customer Analytics
 
 <img width="1790" height="1038" alt="image" src="https://github.com/user-attachments/assets/27383f23-22c7-4d91-a471-c2768672c447" />
 
-Customer segmentation
-Revenue analysis
-Top customers
-AI Insights
+**Highlights**
+- Customer segmentation
+- Revenue analysis
+- Top customers
+- AI Insights
 
 <img width="838" height="440" alt="image" src="https://github.com/user-attachments/assets/c1f2f690-dc75-463a-95f3-6a8134b60e00" />
 
-AI-powered analysis
-Driver identification
-Pattern discovery
+**Highlights**
+- AI-powered analysis
+- Driver identification
+- Pattern discovery
 
 🛠 Technical Skills
 
-Power BI
-Power Query
-DAX
-SQL
-Data Modeling
-Star Schema
-Business Intelligence
-Interactive Reporting
-ETL
-Dashboard Design
+- Power BI
+- Power Query
+- DAX
+- SQL
+- Data Modeling
+- Star Schema
+- Business Intelligence
+- Interactive Reporting
+- ETL
+- Dashboard Design
 
 📈 Business Value
 
-Executive KPI reporting
-Interactive self-service analytics
-Faster business decisions
-Centralized reporting
-Reusable semantic data model
-Scalable dashboard architecture
+- Executive KPI reporting
+- Interactive self-service analytics
+- Faster business decisions
+- Centralized reporting
+- Reusable semantic data model
+- Scalable dashboard architecture
 
 <img width="1828" height="838" alt="image" src="https://github.com/user-attachments/assets/095e2bbe-050d-46af-978e-a480333c1388" />
