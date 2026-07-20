@@ -80,7 +80,7 @@ Executive Dashboard
 - Driver identification
 - Pattern discovery
 
-## AI Key Influencers
+## Key Influencers
 
 <img width="1828" height="838" alt="image" src="https://github.com/user-attachments/assets/095e2bbe-050d-46af-978e-a480333c1388" />
 
