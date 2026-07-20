@@ -36,13 +36,11 @@ AI Visuals	Key Influencers
 Geographic Analysis	Interactive Map
 🖥 Dashboard Pages
 
-This is where it starts looking impressive.
-
 Each dashboard gets:
 
 Executive Dashboard
 
-(large screenshot)
+<img width="1484" height="946" alt="image" src="https://github.com/user-attachments/assets/bf0d4f7b-05d1-4e53-ac8a-4095f55833fd" />
 
 Highlights
 
