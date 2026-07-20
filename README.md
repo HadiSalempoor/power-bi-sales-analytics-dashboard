@@ -1,82 +1,145 @@
-Overview
+📊 Power BI Sales Analytics Dashboard
 
-This project demonstrates the design and development of an interactive Power BI dashboard built using the AdventureWorks dataset.
+A complete Business Intelligence solution built using Power BI and the AdventureWorks dataset.
 
-The solution provides executive reporting, customer analytics, geographic analysis, and product performance insights through an interactive semantic model.
+📌 Project Overview
 
-Business Problem
+This project demonstrates the end-to-end development of an interactive Power BI reporting solution for executive decision-making.
 
-Business stakeholders required a centralized reporting solution to monitor revenue, profit, customer performance, and regional sales trends.
+The solution includes:
 
-Solution
+Executive KPI reporting
+Customer analytics
+Product performance analysis
+Geographic sales analysis
+AI-powered insights
+Interactive drill-through reporting
 
-Designed and developed an end-to-end Power BI solution including:
+🏢 Business Problem
 
-Star Schema Data Model
-Power Query ETL
-DAX Measures
-Time Intelligence
-Interactive Drillthrough
-What-if Parameters
-AI Key Influencers
-Geographic Analysis
-Dashboard Pages
+Organizations require timely, interactive reporting to monitor revenue, profitability, customer performance, and regional trends.
 
-Then
+Traditional static reports limit decision-making and require significant manual effort.
 
-large screenshots
+✅ Solution
+
+Designed and developed an end-to-end Power BI solution featuring:
+
+Area	Implementation
+Data Modeling	Star Schema
+ETL	Power Query
+Measures	DAX
+Time Intelligence	Yes
+Drillthrough	Yes
+What-if Parameters	Yes
+AI Visuals	Key Influencers
+Geographic Analysis	Interactive Map
+🖥 Dashboard Pages
+
+This is where it starts looking impressive.
+
+Each dashboard gets:
 
 Executive Dashboard
 
-Customer Detail
+(large screenshot)
 
-Product Detail
+Highlights
 
-Map
+Revenue KPIs
+Profit KPIs
+Monthly trends
+Executive scorecards
+Geographic Analysis
 
-etc.
+(large screenshot)
 
-Technical Skills
+Highlights
+
+Regional performance
+Interactive map
+Country comparison
+Product Performance
+
+(large screenshot)
+
+Highlights
+
+Dynamic KPIs
+What-if analysis
+Performance trends
+Customer Analytics
+
+(large screenshot)
+
+Highlights
+
+Customer segmentation
+Revenue analysis
+Top customers
+AI Insights
+
+(Key Influencers screenshot)
+
+Highlights
+
+AI-powered analysis
+Driver identification
+Pattern discovery
+🛠 Technical Skills
+
+Instead of a paragraph, make it look like this:
 
 Power BI
-
 Power Query
-
 DAX
-
 SQL
-
 Data Modeling
-
 Star Schema
-
-ETL
-
 Business Intelligence
-
-Business Value
+Interactive Reporting
+ETL
+Dashboard Design
+📈 Business Value
 
 Instead of
 
-"I made a dashboard"
+I built a dashboard
 
-we write
+write
 
 Executive KPI reporting
 Interactive self-service analytics
-Faster decision-making
-Single source of truth
-Technologies
+Faster business decisions
+Centralized reporting
+Reusable semantic data model
+Scalable dashboard architecture
+📷 Gallery
 
-Power BI
+At the bottom:
 
-DAX
+Executive Dashboard
+Customer Detail
+Product Detail
+Map
+Key Influencers
 
-Power Query
+All as large images.
 
-AdventureWorks
+What I noticed from your screenshots
 
-SQL
-cons.
+Your report is actually stronger than I thought.
 
-Professional appearance.
+These pages are worth showcasing:
+
+✅ Executive Dashboard
+✅ Map Dashboard
+✅ Product Detail
+✅ Customer Detail (already anonymized)
+✅ Key Influencers
+
+I would skip:
+
+Category Tooltip (internal implementation detail)
+Q&A (unless it's particularly impressive)
+Decomposition Tree (unless you built a strong analytical scenario around it)
